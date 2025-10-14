@@ -1,5 +1,6 @@
 drug_name,NDA_id,company,dosage_form,route,therapy,status,molecular_formula
 
+
 azulfidine,007073,Pfizer,tablet,oral,Anti-inflammatory,prescription ,C18H14N4O5S
 aztreonam,206517,Hospira,injectable,injectable,bacteria infection,prescription,C13H17N5O8S2
 azstarys, 212994,Commave, capsule,oral,ADHD,prescription,C25H30N3O8+HCl
