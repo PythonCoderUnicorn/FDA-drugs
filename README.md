@@ -15,11 +15,29 @@ dataset of FDA approved drugs including molecular formulas
 - NDA = new drug application  
 - Biological License application (BLA) 
 - Abbreviated New Drug Application (ANDA)
+- PBT `molecular_formula` is Protein Based Therapy (meaning there is no molecular formula available)
+- OTC over the counter 
+
 
 all NDA numeric values can be for either NDA | BLA | ANDA
 
 ## drug names
 
-- short name (ex: anisotropine methylbromide --> anisotropine)
+- short name (ex: `anisotropine methylbromide` --> `anisotropine`)
 - drug name --> active ingredient. not all drug names return data but active ingredient does (ex: anhydron --> cyclothiazide)
 - drug names searched using the API were the `active ingredient` 
+
+## data categories
+
+| column            | meaning                    |
+|-------------------|----------------------------|
+| drug_name         | shortened name of the drug |
+| NDA_id            | `integer` id for drug      |
+| company           | pharmaceutical company     |
+| dosage_form       | physical form drug comes in |
+| route             | how the drug is delivered  |
+| therapy           | what the drug is used for  |
+| status            | Prescribed/ Discontinued/ OTC |
+| molecular_formula | empirical formula of drug   |
+
+
