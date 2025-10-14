@@ -1,0 +1,469 @@
+drug_name,NDA_id,company,dosage_form,route,therapy,status,molecular_formula,
+
+azulfidine,007073,Pfizer,tablet,oral,Anti-inflammatory,prescription ,C18H14N4O5S
+aztreonam,206517,Hospira,injectable,injectable,bacteria infection,prescription,C13H17N5O8S2
+azstarys, 212994,Commave, capsule,oral,ADHD,prescription,C25H30N3O8+HCl
+azor,022100,Cosette,tablet,oral,hypertension, prescription,C20H25CIN2O5+C6H6O3S
+azopt,020816,Sandoz,drops,ophthalmic,optic nerve damage,prescription,C12H21N3O5S3
+azolid, 087091, Sanofi, tablet,oral, NA , discontinued,PBT
+azo gantrisin,019358, Roche,tablet,oral, NA,discontinued,PBT
+azo gantanol,013294, Roche,tablet,oral, NA,discontinued,PBT
+azmiro, 216318, Azurity,solution,intramuscular,testosterone HRT,prescription,C27H40O3
+azmacort,018117, Abbvie, aerosol,inhalation,asthma,discontinued,C24H31FO6
+azlin,062388, Bayer,injectable, injection, NA,discontinued,PBT
+azithromycin,090923, Sun Pharm,injectable, injection, drug-resistant bacteria, discontinued,C44H80N2O19
+azilsartan,217490, Alkem Labs,tablet,oral, high blood pressure,prescription,C30H24N4O8
+azilect,021641, Teva,tablet,oral, Parkinson's disease,prescription,(C12H13N)CH4SO3
+azelex, 020428, Almirall, cream, topical,acne ,prescription,C9H16O4
+azelastine,216421, Apotex, spray, nasal,allergy antihistamine,OTC,C22H24ClN3O
+azelaic acid,204637, Glenmark, gel,topical,acne,prescription,C9H16O4 
+azedra, 209607, Progenics,solution,intravenous,adrenal gland tumors, discontinued,C8H10IN3
+azdone, 089420, Schwarz,tablet,oral, NA,discontinued,PBT
+azathioprine,208687, Alkem Labs,tablet,oral, arthritis. inflammatory bowel disease,prescription,C9H7N7O2S
+azasite,050810, Thea Pharma, drops, ophthalmic,antibiotic: bacterial conjunctivitis,prescription,C38H72N2O12
+azasan, 075252, AAIPHARMA LLC,tablet,oral, arthritis. inflammatory bowel disease,prescription,C9H7N7O2S
+azactam,050580, Myers Squib, injectable, injection, bacterial infections, prescription,C13H17N5O8S2 
+azacitidine,201537, DR Reddys,powder,subcutaneous,cancer,prescription,C8H12N4O5
+ayvakit,212608, Blueprint Med.,tablet,oral, gastrointestinal tumors, prescription,C26H27FN10
+ayuna,206866, Aurobindo Pharma, tablet,oral, prevent pregnancy,prescription,C20H24O2
+aygestin,018405, Duramed,tablet,oral, prevent pregnancy. menopause HRT,discontinued,C20H26O2
+axumin, 208054, Blue Earth,solution,intravenous,prostate cancer PSA,prescription,C5H8FNO2
+axtle,210661, Avyxa Holdings,powder,intravenous,non-squamous lung cancer,prescription,C20H21N5O6
+axotal, 088305, Savage Labs, tablet,oral, tension type headaches,discontinued,C11H16N2O3
+axitinib,210234, Teva Pharms, tablet,oral, kidney cancers,NA,C22H18N4OS
+axiron, 022504, Eli Lilly,solution,transdermal,testosterone HRT,discontinued,C19H28O2
+axid ar,020555, Haleon Holdings,tablet,oral, heartburn. ulcers. indigestion, OTC,C12H21N5O2S2
+axert,021001, Janssen Pharms,tablet,oral, migraines,discontinued,C17H25N3O2S-C4H6O5
+avzivi, 761198, Bio-Thera LTD,injectable, injection, colorectal cancer,prescription,PBT
+avycaz, 206494, Abbvie, powder,intravenous,antibiotic. UTI,prescription,C7H11N3O6S
+avtozma,761420, Celltrion Inc,injectable, injection, rheumatoid arthritis. COVID-19, prescription,PBT
+avsola, 761086, Amgen Inc,injectable, injection, Crohn's disease. Ulcerative Colitis,prescription,PBT
+avonex, 103628, Biogen Inc,powder,injection, Multiple Sclerosis, prescription,PBT
+avodart,021319, Waylis Therapy,capsule,oral, prostate gland enlargement,prescription,C27H30F6N2O2
+avutometinab,219616, Verastem Inc,capsule,oral, ovarian cancer,prescription,C21H18FN5O5S
+avita,020400, Rising, gel,topical,acne. cancer: white blood cells,discontinued,C20H28O2
+avinza, 021260, King Pharms LLC,capsule,oral, (morphine) painkiller,discontinued,C17H19NO3
+aviane-28, 075796, Duramed Pharms,tablet,oral, menstruation. prevent pregnancy,prescription,C20H24O2
+avgemsi,219920, Avyxa Holdings,solution,intravenous,chemotherapy: ovarian/breast/pancreas,prescription,C9H11F2N3O4
+averi,218933, Avion Pharms,tablet,oral, birth control (progesterone), prescription,C22H30O
+aventyl,014685, Ranbaxy,solution,oral, depression, discontinued,C19H21N
+avelox, 021334, Bayer Pharms,tablet,oral, antibiotic, prescription,C21H24FN3O4
+aveed,022219, Endo Operations,injectable, injection, testosterone HRT,prescription,C30H48O3
+avc,006530, Pharmobedient,cream, vaginal,yeast infections,discontinued,C6H8N2O2S
+avastin,125085, Genentech,vial,intravenous,cancer treatment,prescription,PBT
+avapro, 020757, Sanofi Aventis,tablet,oral, blood pressure. diabetic kidney issues, prescription,C25H28N6O
+avindia,021071, Woodward, tablet,oral, diabetic blood sugar, discontinued,C18H19N3O3S
+avandaryl, 021700, SB Pharmco,tablet,oral, type 2 diabetic blood sugar,discontinued,C24H34N4O5S
+avandamet, 021410, SB Pharmco,tablet,oral, type 2 diabetic blood sugar,discontinued,C18H19N3O3S-C4H4O4 
+avanafil,209266, Hetero Labs LTD,tablet,oral, erectile dysfunction, prescription,C23H26ClN7O3
+avalide,020758, Sanofi Aventis,tablet,oral, high blood pressure. water retention,prescription,C7H8ClN3O4S2
+avage,021184, Allergan, cream, topical,acne. skin wrinkles. skin pigmentation, prescription,C21H21NO2S 
+avagard,021074, 3M,solution,topical,gum disease. hand sanitizer,OTC,C22H30Cl2N10
+avaclyr,202408, Fera Pharms LLC,ointment,ophthalmic,herpes. chicken pox & shingles, discontinued,C8H11N3O3
+auvi-q, 201739, Kaleo Inc,solution,subcutaneous,(Epinephrine) allergic reactions,prescription,C9H13NO3
+auvelity,215430, Axsome, tablet,oral, mood disorders. nicotine addiction,prescription,C13H18ClNO
+austedo,209885, Teva Pharm,tablet,oral, involuntary muscular movements, prescription,C19H27NO3
+auryxia,205874, Keryx Biopharms,tablet,oral, control phosphorus blood levels,prescription,C18H32Fe4O31
+aurovela,207581, Aurobindo Pharma, tablet,oral, prevent pregnancy. menstruation,prescription,C20H24O2 
+aurlumyn,217933, BTG INTL, solution,intravenous,severe frostbite: digit amputation,prescription,C22H32O4
+aureomycin,050404, Lederle,ointment,ophthalmic,antibiotic, discontinued,C22H23ClN2O8 
+aukelso,761436, Biocon Biologics, injectable, injection, osteoporosis: bone fracture risk,prescription,PBT 
+augtyro,218213, Bristol,capsule,oral, lung cancer,prescription,C18H18FN5O2
+augmentin, 050575, US Antibiotics,suspension, oral, respiratory infections. sinusitis. UTI, prescription,C16H19N3O5S-3H2O
+augbagio,202992, Sanofi Aventis,tablet,oral, Multiple Sclerosis, prescription,C12H9F3N2O2
+atzumi, 217901, Satsuma Pharms,powder,PBTsal,migraines,prescription,C33H37N5O5
+attruby,216540, Bridgebio Pharma, tablet,oral, cardiomyopathy,prescription,C15H18FN2O3Cl
+atrovent,020393, Boehringer Ing.,spray, nasal,lung disease: coughing. wheezing,discontinued,C20H30BrNO3-H2O 
+atropine,071295, Abbvie, solution,intramuscular,poisoning: pesticides,discontinued,C17H23NO3
+atropen,017106, MMT,solution,intramuscular,poisoning: pesticides,discontinued,C17H23NO3
+atromid-s, 016099, Wyeth Ayerst,capsule,oral, blood: high cholesterol, discontinued,C12H15ClO3
+atripla,021937, Gilead Sciences,tablet,oral, HIV-1: antiretroviral agent,discontinued,C14H9ClF3NO2
+atridox,050751, Den-Mat,system,periodontal,antibiotic, discontinued,(C22H24N2O8-HCl)2-C2H8O-H2O 
+atralin,022070, Dow Pharm,gel,topical,acne vulgaris, prescription,C20H28O2 
+atracurium,090761, Hospira Inc, injectable, injection, surgeries: muscle relaxer,prescription,C65H82N2O18S2
+atovaquone,210692, Hetero Labs LTD,suspension, oral, lung infections. malaria,prescription,C22H19ClO3
+atorvastatin,078773, Teva Pharms, tablet,oral, blood: cholesterol, discontinued,C33H35FN2O5
+atorvaliq, 213260, CMP Dev LLC, suspension, oral, myocardial infarction. stroke,prescription,(C33H34FN2O5)2Ca-3H2O 
+atomoxetine,078983, Apotex, capsule,oral, ADHD,prescription,C17H21NO
+atnaa,021175, US Army,injectable, intramuscular,poisoning: pesticides,discontinued,C7H9ClN2O
+atmeksi,219843, Rosemont Pharms,suspension, oral, muscle relaxer,prescription,C11H15NO5
+ativan, 017794, Bausch, tablet,oral, (lorazepam) antianxiety, prescription,C15H10Cl2N2O2
+athrombin, 011771, Pharm Res Assoc., tablet,oral, (warfarin) prevent blood clots, discontinued,C19H16O4
+athentia,206867, Aurobindo Pharma, tablet,oral, hormone: birth control,OTC,C21H28O2
+atenolol,078512, Aurobindo Pharma, tablet,oral, high BP. chest pain,prescription,C14H22N2O3
+atelvia,022560, Apil,tablet,oral, postmenopausal osteoporosis,prescription,C7H10NO7P2Na-2.5H2O
+atazanavir,204806, Aurobindo Pharma, capsule,oral, HIV antiviral, prescription,C38H52N6O7
+atarax, 010392, Pfizer, tablet,oral, anxiety disorders. skin conditions,discontinued,C21H27ClN2O2
+atacand,020838, Ani Pharms,tablet,oral, high BP. diabetic: kidney issues,prescription,C33H34N6O6
+astramorph pf,071053, Fresenius Kabi,injectable, injection, (morphine) pain treatment,discontinued,C17H19NO3
+astepro,213872, Bayer,spray, nasal,antihistamine allergies, OTC,C22H24ClN3O
+astelin,020114, Rising, spray, nasal,antihistamine allergies, discontinued,C22H24ClN3O-HCl 
+astagraf xl,204096, Astellas, capsule,oral, kidney transplant rejection,prescription,C44H69NO12
+aspruzyo,216018, Spil,granules,oral, chronic angina,discontinued,C24H33N3O4
+asparlas,761102, Servier Pharma,injectable, injection, chemotherapy: leukemia,prescription,PBT 
+asmanex,205641, Organon LLC, aerosol,inhalation,asthma treatment,prescription,C27H30Cl2O6
+ashlyna,203163, Glenmark Pharms,tablet,oral, prevent pregnancy. menstruation,prescription,C20H24O2
+asendin,018021, Lederle,tablet,oral, depression, discontinued,C17H16ClN3O
+asenapine, 205960, Breckenridge,tablet,sublingual,schizophrenia. bipolar 1 disorder, prescription,C17H16ClNO
+ascor,209112, McGuff, solution,intravenous,(Vitamin C) scurvy, prescription,C6H8O6
+asclera,021201, Chemisch FBRK,solution,intravenous,spider veins. varicose veins, prescription,C12H25(OCH2CH2)OH 
+asbron, 085148, Novartis, tablet,oral, asthma. lung disease, discontinued,C7H8N4O2 
+asacol, 019651, Apil,tablet,oral, ulcerative colitis, discontinued,C7H7NO3
+arzerra,125326, Novartis, injectable, injection, chronic lymphotic leukemia,prescription,PBT 
+arynta, 219847, Azurity,solution,oral, ADHD. binge eating disorder,prescription,C15H25N3O-(CH4O3S)2 
+arymo er,208603, Zyla,tablet,oral, (morphine) pain management,discontinued,C17H19NO3
+arthrotec, 020607, Pfizer, tablet,oral, anti-inflammatory: osteoarthritis, prescription,C14H10Cl2NO2NA
+artesunate,213036, Amivas, powder,intravenous,severe malaria,prescription,C19H28O8 
+artane, 006773, Lederle,tablet,oral, Parkinson disease,discontinued,C20H31NO HCl 
+arranon,021877, Sandoz, injectable, injection, blood cancers, prescription,C11H15N5O5
+aromasin,020753, Pfizer, tablet,oral, breast cancer, prescription,C20H24O2 
+arnuity,205625, Glaxosmithkline,powder,inhalation,asthma,prescription,C27H29F3O6S
+armonair,208798, Teva Pharm,powder,inhalation,asthma,discontinued,C25H31F3O5S
+armodafinil,206069, Aurobindo Pharma, tablet,oral, narcolepsy. sleep apnea, prescription,C15H15NO2S
+arixtra,021345, Mylan Ireland,injectable, injection, blood thinner, prescription,C31H43N3Na10O49S8
+aristospan,016466, Ethypharm Inc,injectable, injection, anti-inflammatory,discontinued,C21H27FO6
+aristada,207533, Alkermes Inc,suspension, intramuscular,schizophrenia, prescription,C36H51C12N3O4
+aripiprazole,090165, Square Farms,tablet,oral, mood disorders. depression,prescription,C23H27Cl2N3O2
+armidex,022214, Astrazeneca, tablet,oral, breast cancer: postmenopausal,prescription,C17H19N5 
+arikayce,207356, Insmed Inc,suspension, inhalation,antibacterial: lung disease,prescription,C22H43N5O13-2H2SO4
+aridol, 022368, Pharmaxis Europe, powder,inhalation,asthma. cystic fibrosis, prescription,C6H14O6
+aricept,022568, Eisai Inc,tablet,oral, dementia: Alzheimer's ,prescription,C24H29NO3HCl
+argatroban,020883, Sandoz, injectable, injection, blood clots,discontinued,C23H36N6O5
+arformoterol,200293, Teva Pharms, solution,inhalation,lung conditions,prescription,C19H24N2O4
+arfonad,008983, Roche,injectable, injection, hypotension inducer,discontinued,C22H25N2OS
+arestocaine,084777, Solvay, injectable, injection, anesthesia: painkiller,discontinued,C15H22N2O 
+arestin,050781, Orapharma,powder,dental, antibiotic, prescription,C23H27N3O7HCl
+aredia, 020036, Novartis, injectable, injection, bone diseases, discontinued,C3H9NO7P2Na2-5H2O 
+arduan, 019638, Organon,injectable, injection, anesthesia: muscle relaxer,discontinued,C35H62N4O4
+arcapta,022383, Novartis, powder,inhalation,COPD. emphysema,discontinued,C24H28N2O3-C4H4O4 
+arcalyst,125249, Kiniksa Pharma,injectable, injection, CAPS. FCAS. Muckle-Wells Syndrome, prescription,PBT 
+arbli,218772, Scienture,suspension, oral, hypertension. diabetic nephropathy,prescription,C22H22ClKNN6O 
+arazlo, 211882, Bausch, lotion,topical,acne vulgaris, prescription,C21H21NO2S 
+arava,020905, Sanofi Aventis,tablet,oral, rheumatoid arthritis, prescription,C12H9F3N2O2 
+aranesp,103951, Amgen,injectable, injection, anemia treatment,prescription,PBT 
+aranelle,076783, Barr,tablet,oral, prevent pregnancy,prescription,C20H24O2
+aramine,009509, Merck,injectable, injection, increase blood pressure, discontinued,C3H13NO2-C4H6O6 
+aralen, 006002, Sanofi Aventis,tablet,oral, malaria,discontinued,C18H26ClN3
+arakoda,210607, 60 Degrees Pharms,tablet,oral, antimalaria,prescription,C24H28F3O3-C4H6O4 
+aquatensen,017364, Medpointe Pharm,tablet,oral, high BP. body swelling,discontinued,C9H11Cl2N3O4S2
+aquatag,016001, Solvay, tablet,oral, hypertension. adema,discontinued,C15H14ClN3O4S3
+aquaphyllin,087917, Ferndale Labs,syrup, oral, asthma. lung disease, discontinued,C7H8N4O2 
+aquamephyton,012223, Pai Holdings,injectable, injection, Vitamin K: deficiency,discontinued,C31H46O2
+aqneursa,219132, Intrabio, suspension, oral, Niemann-Pick disease type C,prescription,C8H15NO3
+aptivus,022292, Boehringer Ing,solution,oral, HIV-1 ,discontinued,C31H33F3N2O5S
+aptiom, 022416, Sumitomo Pharma,tablet,oral, partial onset seizures,prescription,C17H16N2O3
+aptensio,205831, Rhodes Pharms,capsule,oral, ADHD,prescription,C14H19NO2-HCl 
+apriso, 022301, Salix,capsule,oral, ulcerative colitis, prescription,C7H7NO3 
+apretude,215499, VIIV Healthcare,suspension, intramuscular,HIV-1 PrEP, prescription,C19H17F2N3O5 
+apresoline,008303, Novartis, tablet,oral, hypertension,discontinued,C8H8N4
+apresazide,084810, Novartis, capsule,oral, lower BP, discontinued,C8H8N4
+aprepitant,090999, Sandoz, capsule,oral, chemotherapy: nausea & vomiting,prescription,C23H21F7N4O3
+apremilast,211887, MSN ,tablet,oral, anti-inflammatory: psoriasis, prescription,C22H24N2O7S
+apraclonidine,077764, Rising, solution,ophthalamic,decrease pressure in eyes,prescription,C9H10Cl2N4
+aponvie,216457, Heron Theraps,emulsion,intravenous,postoperative nausea & vomiting,prescription,C23H21F7N4O3 
+apokyn, 021264, MDD US, injectable, subcutaneous,Parkinson's disease,prescription,C17H17NO2-HCl
+apogen, 062289, King Pharms, injectable, injection, antibiotic, discontinued,C60H123N15O21
+aplenzin,022108, Bausch, tablet,oral, major depressive disorder,prescription,C13H18ClNO-HBr 
+apixaban,209845, Breckenridge,tablet,oral, blood thinner, discontinued,C25H25N5O4
+apidra, 021629, Sanofi Aventis,injectable, intravenous,rapid glucose lowering agent, prescription,C258H384N64O78S6
+aphthasol, 020511, Uluru,paste, dental, oral cavity ulcers ,discontinued,C16H14N2O4
+aphexda,217159, Ayrmid Pharma,powder,subcutaneous,myeloma. stem cell transplant,prescription,PBT 
+apalutamide,217113, Zydus,tablet,oral, prostate cancer,prescription,C21H15F4N5O2S
+apadaz, 208653, Zevra Therap,tablet,oral, acute pain management,discontinued,C25H26ClNO4
+anzupgo,219155, Leo Pharma,cream, topical,chronic hand eczema,prescription,C16H18N6O
+anzemet,020623, Validus Pharms,tablet,oral, antinausea. antiemetic agent, discontinued,C19H20N2O3-CH3SO3H
+anusol, 088250, Salix Pharms,cream, topical,skin & allergic reactions,prescription,C21H30O5
+anturane,011556, Novartis, tablet,oral, blood clots. gout,discontinued,C23H20N2O3S
+antrenyl,008492, Novartis, tablet,oral, gastric & duodenal ulcers,discontinued,C21H34NO3
+antizol,020696, Par Pharm,injectable, injection, antidote: poisoning,discontinued,C4H6N2 
+antivert,010721, Casper Pharma,tablet,oral, vertigo. motion sickness,prescription,C25H27ClN2
+antitussive,071292, Perrigo,syrup, oral, anti-allergy , discontinued,C17H21NO 
+anthim, 125509, Elusys Therap.,injectable, injection, inhalation of anthrax,prescription,PBT 
+anthelios, 021471, Loreal USA,cream, topical,prevent sunburn,OTC,C20H22O3 
+antepar,009102, Glaxosmithkline,syrup, oral, worm infections,discontinued,C4H10N2 
+antara, 021695, Lupin,capsule,oral, lower cholesterol,discontinued,C20H21ClO4 
+antagonate,093381, Bayer,tablet,oral, allergic cough,discontinued,C16N19ClN2 
+antabuse,007883, Teva Womens, tablet,oral, alcohol addiction,discontinued,C10H20N2S4 
+anspor, 061859, Glaxosmithkline,capsule,oral, antibiotic, discontinued,C16H19N3O4S
+ansolysen, 009372, Wyeth Ayerst,injectable, injection, hypertension,discontinued,C15H32N2
+ansaid, 018766, Pharmacia,tablet,oral, rheumatoid arthritis & osteoarthritis,discontinued,C15H13FO2
+anoro ellipta,203975, Glaxosmithkline,powder,inhalation,COPD,prescription,C24H33Cl2NO5-C20H16O2
+anoquan,087628, Shire,capsule,oral, (acetaminophen) pain & fever relief,discontinued,C8H9NO2
+annovera,209627, Mayne Pharma,ring,vaginal,prevent pregnancy,prescription,C23H30O4
+anktiva,761336, Altor Bioscience, solution,intravesical,bladder cancer,prescription,PBT 
+anjeso, 210583, Baudax, solution,intravenous,NSAID: pain management,discontinued,C14H13N3O4S2
+anisotropine,086046, Watson Labs, tablet,oral, peptic ulcer,discontinued,C17H32BrNO2
+anhydron,013157, Lilly,tablet,oral, edema: heart failure & hypertension,discontinued,C14H16ClN3O4S2
+angiovist, 087726, Bayer Healthcare, injectable, injection, diagnostic: CT and XRay. bladder,discontinued,C11H9I3N2O4
+angiotensin,216966, Gland,solution,intravenous,raise blood pressure, prescription,PBT 
+angiomax,020873, Sandoz, injectable, injection, anticoagulant: PCI. HIT. HITTS, prescription,C98H138N24O33
+angio-conray,013319, Mallinckrodt,injectable, injection, diagnostic: blood vessels. liver. brain,discontinued,C11H9I3N2O4
+angeliq,021355, Bayer Healthcare, tablet,oral, birth control, prescription,C24H30O3
+anexsia,089160, Mallinckrodt,tablet,oral, (acetaminophen) pain relief,discontinued,C18H21NO3
+anestacon, 080429, Bionpharma,jelly, topical,anesthesia: prevent pain,discontinued,C14H22N2O 
+anectine,008453, Sandoz, injectable, injection, muscle relaxer via IV,discontinued,C14H30N2O4
+android-f, 087196, Valeant Pharm,tablet,oral, hypogonadism. breast neoplasms, discontinued,C20H29FO3
+android-5, 087222, Valeant Pharm,tablet,buccal, testosterone. breast cancer,discontinued,C20H30O2
+android-25,087147, Bausch, tablet,oral, testosterone. breast cancer,discontinued,C20H30O2
+android-10,086450, Valeant Pharm,tablet,oral, testosterone. breast cancer,discontinued,C20H30O2
+androgel,021015, Besins Healthcare,gel,transdermal,HRT: testosterone,prescription,C19H28O2 
+androderm, 020489, Abbvie, film,transdermal,HRT: testosterone,discontinued,C19H28O2
+andembry,761367, CSL Behring, injectable, injection, hereditary angioedema,prescription,PBT 
+ancobon,017001, Bausch, capsule,oral, antifungal, prescription,C4H3FN3O
+ancef,050461, Glaxosmithkline,injectable, injection, prevent bacterial infections, discontinued,C14H14N8O4S3
+anastrozole,078058, Teva Pharms, tablet,oral, breast cancer: postmenopausal,prescription,C17H19N5
+anaprox,018164, Atnahs Pharma,tablet,oral, painkiller: arthritis. menstrual,discontinued,C14H14O3 
+anagrelide,076468, CIPLA,capsule,oral, bone marrow disease: lower blood cells, prescription,C10H7Cl2N3O
+anafranil, 019906, SpecGX LLC,capsule,oral, antidepressant,prescription,C19H23ClN2
+anadrol-50,016848, Pharmobedient,tablet,oral, anemia. low RBC levels,discontinued,C21H32O3
+an-sulfur, 017858, Sun Pharm,solution,injection, radioactive diagnostic: lymph nodes,prescription,S8Tc
+an-dtpa,017714, Jubilant Draximage,injectable,injection, radioactive diagnostic: lymph nodes,discontinued,S8Tc
+amzeeq, 212379, Journey,aerosol,topical,inflammatory lesions. acne,prescription,C23H27N3O7
+amyvid, 202008, Avid Radiopharms, solution,intravenous,radioactive diag: PET brain. Alzheimers,prescription,C20H25FN2O3
+amvuttra,215515, Alnylam Pharms,solution,subcutaneous,prevent nerve damage, prescription,NA 
+amvaz,021435, Dr Reddys Labs,tablet,oral, heart: high BP & chest pain,discontinued,C20H25ClN2O5 
+amturnide, 200045, Novartis, tablet,oral, hypertension,discontinued,C30H53N3O6-0.5C4H4O4
+amrix,021777, Teva Pharms, capsule,oral, muscle relaxer,prescription,C20H21N-HCl 
+amrinone,075513, Hikma,injectable, injection, heart failure, prescription,C10H9N3O
+ampyra, 022250, Merz,tablet,oral, Multiple Sclerosis: walking,prescription,C5H6N2 
+ampicillin,090653, Hospira,injectable, injection, antibiotic, discontinued,C16H19N3O4S 
+amphotericin,215354, Avet Lifescience, injectable, injection, life threatening fungus infection, prescription,C47H73NO17 
+amphotec,050729, Alkopharma USA,injectable, injection, life threatening fungus infection, discontinued,C47H73NO17 
+amphetamine,209252, Actavis Labs,tablet,oral, ADHD,prescription,C9H13N 
+amphadase, 021665, Amphastar Pharm,injectable, injection, helps medication absorption,prescription,PBT
+amoxil, 062216, US Antibiotics,capsule,oral, penicillin antibiotic,prescription,C16H19N3O5S 
+amozapine, 072691, Watson Labs, tablet,oral, depression, prescription,C17H16ClNO 
+amosene,084030, Ferndale Labs,tablet,oral, anxiety symptoms (short term),discontinued,C9H18N2O4
+amondys,213026, Sarepta Theraps,solution,intravenous,Duchenne muscular dystrophy (DMD), prescription,C268H424N124O95P22
+amnestrogen,083266, Bristol Myers,tablet,oral, low estrogen levels. menopause, discontinued,NA 
+amnesteem, 075945, Mylan Pharms,capsule,oral, acne,prescription,C20H28O2 
+ammonul,020645, Bausch, solution,intravenous,hyperammonemia. encephalopathy, discontinued,C7H5NaO2/C8H7NaO2
+amlodipine,215035, Amneal, suspension, oral, heart: high BP & chest pain,discontinued,C20H25ClN2O5 
+amlexanox, 021727, Uluru,patch, topical,ulcers,discontinued,C16H14N2O4 
+amjevita,761024, Amgen,injectable, injection, rheumatoid arthritis. Crohn's disease,prescription,PBT
+amitriptyline,085031, Ani Pharms,tablet,oral, depression & anxiety, discontinued,C20H23N 
+amitril,086295, Warner Chilcott,tablet,oral, depression & anxiety, discontinued,C20H23N 
+amitiza,021908, Sucampo Pharma,capsule,oral, gastrointestinal constipation laxative, prescription,C20H32F2O5
+amitid, 086454, Bristol Myers,tablet,oral, depression & anxiety, discontinued,C20H23N 
+amipaque,017982, GE Healthcare,injectable, injection, diagnostic agent: CNS ,discontinued,C18H22I3N3O8
+amiodarone,021594, INTL Medication,injectable, injection, regulate heart rhythms,discontinued,C25H29I2NO3 
+aminosyn,017673, ICU Medical Inc,injectable, injection, NA,discontinued,NA 
+aminosol,005932, Abbvie, injectable, injection, NA,discontinued,NA 
+aminophylline,087250, Abraxis Pharm,injectable, injection, lungs: asthma. SOB. inflammation,discontinued,C16H24N10O4
+aminohippurate, 005619, Merck,injectable, injection, kidney function,discontinued,C9H10N2O3 
+aminocaproic,075602, Hikma,tablet,oral, post-surgery: stop bleeding,discontinued,C6H13NO2 
+amikin, 062562, Apothecon,injectable, injection, antibiotic, discontinued,C22H43N5O13 
+amifostine,077126, Sun Pharm,injectable, injectiion,chemotherapy: reduce toxicity treatment,discontinued,C5H15N2O3PS
+amidate,018227, Hospira,injectable, injection, anesthesia, prescription,C14H16N2O2 
+amicar, 015197, Hikma,tablet,oral, post-surgery: stop bleeding,prescription,C6H13NO2 
+amerscan,018335, GE Healthcare,injectable, injection, diagnostic agent: radioactive,discontinued,Tc 
+amerge, 020763, Glaxosmithkline,tablet,oral, migraines,discontinued,C17H25N3O2S-HCl
+amen, 083242, Amarin Pharms,tablet,oral, prevent pregnancy,discontinued,C24H34O4 
+ameluz, 208081, Biofrontera, gel,topical,skin conditions,prescription,C5H9NO3 
+amcinonide,076329, Solubiomix,lotion,topical,skin redness. itchiness. inflammation,prescription,C28H35FO7 
+amcill, 062041, Parke Davis, capsule,oral, antibiotic, discontinued,C16H19N3O4S 
+ambrisentan,208354, Sigmapharm Labs,tablet,oral, lower blood pressure, prescription,C22H22N2O4 
+ambodryl,007984, Parke Davis, capsule,oral, antimicrobial, discontinued,C17H20BrNO
+ambisome,050740, Astellas, injectable, injection, life threatening fungus, prescription,C47H73NO17 
+ambien, 019908, Cosette,tablet,oral, (short term) insomnia,prescription,C19H21N3O 
+ambenyl,009319, Forest Labs, syrup, oral, antihistamine. antimicrobial, discontinued,C17H20BrNO 
+amaryl, 020496, Sanofi Aventis,tablet,oral, diabetes: lower blood sugar , discontinued,C24H34N4O5S 
+amantadine,214897, Zydus,capsule,oral, Parkinson's disease,discontinued,C10H17N 
+amabelz,203339, Lupin,tablet,oral, osteoarthritis. menopause. estrogen,prescription,C18H24O2 
+alyq, 216932, Teva Pharms, tablet,oral, erectile dysfunction. high BP in lungs, prescription,C22H19N3O4 
+alymsys,761231, Amneal Pharms,injectable, injection, colorectal cancer,prescription,PBT
+alyftrek,218730, Vertex Pharms,tablet,oral, cystic fibrosis,prescription,C32H38N7O4S
+alyacen,091634, Glenmark Pharms,tablet,oral, prevent pregnancy,prescription,C20H24O2 
+alvimopan, 216843, PH Health,capsule,oral, post-surgery: stomach & intestine heal, prescription,C25H32N2O4 
+alvesco,021658, Covis,aerosol,inhalation,asthma,prescription,C32H44O7
+alvaiz, 216774, Teva Pharms, tablet,oral, thrombocytopenia ,prescription,C30H35N5O5
+alupent,017571, Boehringer Ing.,syrup, oral, lung conditions: asthma, discontinued,C11H17NO3
+alunbrig,208772, Takeda Pharms,tablet,oral, lung cancer: ALK-positive NSCLC,prescription,C29H39ClN7O2P 
+altreno,209353, Dow Pharma,lotion,topical,acne. cancer: WBC,prescription,C20H28O2 
+altoprev,021316, Covis,tablet,oral, lower cholesterol,discontinued,C24H36)5 
+altovera,079102, Xiromed,tablet,oral, prevent pregnancy,prescription,C20H24O2 
+altafluor, 208582, Altaire Pharms,solution,ophthalamic,topical ophthalmic anesthetic,prescription,C17H28N2O3
+altace, 022021, King Pfizer, tablet,oral, lower BP ,discontinued,C23H32N2O5
+altabax,022055, Almirall, ointment,topical,topical treatment of impetigo,discontinued,C30H47NO4S
+altsuma,022377, Meridian Medical, injectable, subcutaneous,migraines,discontinued,C14H21N3O2S
+alrex,020803, Bausch & Lomb,suspension, ophthalmic,topical anti-inflammatory corticosteroid,prescription,C24H31ClO7
+alprostadil,074815, Hikma,injectable, injection, erectile dysfunction, prescription,C20H34O5
+alprazolam,090871, Aurobindo Pharma, tablet,oral, sedative: anxiety. depression,prescription,C17H13ClN4 
+alphazine, 085034, Sandoz, tablet,oral, appetite suppression. obesity,discontinued,C12H17NO
+alphatrex, 019138, Savage Labs, cream, topical,steroid anti-inflammatory,discontinued,C22H29FO5
+alpharedisol,080778, Merck,injectable, injection, cyanide poisoning,discontinued,C62H89CoN13O15P
+alphalin,080883, Lilly,capsule,oral, Vitamin A - eyesight, discontinued,C20H30O 
+alphagan,020613, Allergan, solution,ophthalmic,ocular glaucoma. ocular hypertension,discontinued,C11H10BrN5
+alphadrol, 012259, Pharmacia,tablet,oral, anti-inflammatory,discontinued,C21H27FO5
+alphaderm, 086008, Bioglan,cream, topical,skin conditions. immune system disorders,discontinued,C21H30O5
+alphacaine,084944, Carlisle, ointment,topical,anesthetic: prevent pain,discontinued,C14H22N2O 
+aloxi,021372, Helsinn Hlthcare, injectable, injection, antiemetic and antinauseant agent, discontinued,C19H24N2O 
+alosetron, 211621, Hibrow Hlthcare,tablet,oral, IBS, prescription,C17H18N4O
+alora,020655, Abbvie, film,transdermal,menopause osteoporosis. vaginal atrophy,discontinued,C18H24O2
+aloprim,020298, Mylan,injectable, injection, leukemia. lymphoma & solid tumors, prescription,C5H3N4NaO
+alomide,020191, Novartis, solution,ophthalmic,anti-inflammatory in eyes,discontinued,C19H28O12N5Cl
+algogliptin,210213, MSN Labs, tablet,oral, diabetes type 2: lower glucose, None,C18H21N5O2 
+alocril,021009, Allergan, solution,ophthalmic,allergic itching conjunctivitis,discontinued,C19H15NNa2O7
+almotriptan,205171, Mylan,tablet,oral, migraines,prescription,C17H25N3O2S 
+allzital,203484, Larken Labs, tablet,oral, (acetaminophen) fever and pain, prescription,C8H9NO2
+allopurinol,075798, PH Health,tablet,oral, gout via cancer & kidney stones,prescription,C5H4N4O 
+alli, 021887, Aphena Pharma,tablet,oral, weight loss aid ,OTC,C29H53NO5
+allernaze, 020120, Lupin,spray, nasal,allergy symptoms,discontinued,C24H31FO6 
+allerfed,088860, PVT Form, tablet,oral, nasal decongestant, discontinued,C10H15NO
+allegra,020625, Chattem Sanofi,capsule,oral, antihistamine, discontinued,C32H39NO4-HCl
+allay,089907, Vax Pharms,capsule,oral, (acetaminophen) pain relief,discontinued,C8H9NO2
+alkindi,213876, ETON,granule,oral, skin conditions. anti-itch,prescription,C21H39O5
+alkergot,085153, Sandoz, tablet,sublingual,dementia, discontinued,NA 
+alkeran,020207, Apotex, injectable, injection, myeloma,discontinued,C13H18Cl2N2O2
+aliskiren, 206665, PH Health,tablet,oral, hypertension,prescription,C30H53N3O6
+aliqopa,209936, Bayer,powder,intravenous,lymphoma, discontinued,C23H28N8O4
+alinia, 021497, Romark, tablet,oral, treatment of diarrhea,discontinued,C12H9N3O5S 
+alimta,021462,Lilly,powder,intravenous,lung cancer (NSCLC),prescription,C20H19N5NA2O6 
+alhemo,761428,Novo Nordisk,solution,injection,hemophilia,prescription,PBT
+alfuzosin,079013,Apotex,tablet,oral,benign prostatic hyperplasia,prescription,C19H27N5O4 
+alfentanil,075221,Hospira,injectable,injection,anesthesia. painkiller,discontinued,C21H32N6O3 
+alfenta,019353,Rising,injectable,injection,anesthesia. painkiller,prescription,C21H32N6O3 
+aleve,020204,Bayer,tablet,oral,pain relief,OTC,C14H14O3 
+alesse,020683,Cadence Health,tablet,oral,prevent pregnancy,discontinued,C18H24O2 
+alendronate,206387,Ipca Labs,tablet,oral,osteoporosis in postmenopausal,prescription,C4H12NNaO7P2 
+alecensa,208434,Hoffman La Roche,tablet,oral,lung cancer,prescription,C30H34N4O2 
+aldurazyme,125058,Biomarin,solution,intravenous,Hurler and Hurler-Scheie forms of Mucopolysaccharidosis I,prescription,PBT 
+aldoril,013402,Merck,tablet,oral,blood pressure. water retention,discontinued,C7H8ClN3O4S2 
+aldomet,013400,Merck,tablet,oral,hypertension,discontinued,C10H13NO4 
+aldoclor,016016,Merck,tablet,oral,congestive heart failure,discontinued,C7H5ClN3NaO4S2 
+aldara,020723,Bausch,cream,topical,skin cancer. genital warts,discontinued,C14H16N4 
+aldactone,012151,Pfizer,tablet,oral,hypertension. heart failure,prescription,C24H32O4S 
+alclometasone,079227,Glenmark Pharms,ointment,topical,inflammation dermatoses,discontinued,C28H37ClO7 
+alcaine,080027,Alcon Labs,solution,ophthalmic,ophthalmic anesthetic,prescription,C16H26N2O3 
+alcaftadine,209290,Alembic,solution,ophthalmic,allergic conjunctivitis,OTC,C19H21N3O 
+albuterol,074072,Pliva,aerosol,inhalation,bronchospasm,discontinued,(C13H21NO3)2•H2SO4 
+albenza,020666,Impax Labs,tablet,oral,anthelmintic drug: tapeworm,discontinued,C12H15N3O2S 
+albamycin,050339,Pharmacia,tablet,oral,antibiotic,discontinued,C31H36N2O11 
+albalon,080248,Allergan,solution,ophthalmic,eye allergies. irritation,discontinued,C14H14N2 
+alaway,021996,Bausch,solution,ophthalmic,allergies,OTC,C19H19NOS 
+alavert,021375,Fdn Consumer,tablet,oral,allergies,OTC,C22H23ClN2O2 
+alamast,021079,Santen,solution,ophthalmic,allergies,discontinued,C10H7KN6O 
+akynzeo,205718,Helsinn Hlthcare,tablet,oral,chemotherapy: nausea and vomiting,prescription, C30H32F6N4O 
+aktob,064096,Epic Pharma,solution,ophthalmic,bacterial infections,discontinued,(C18H37N5O9)2•5H2SO4 
+aktipak,050769,Niofrontera,gel,topical,acne,discontinued,C14H10O4 
+akten,022221,Thea Pharma,gel,ophthalmic,topical anesthesia,prescription,C14H22N2O 
+akpro,074382,Epic Pharma,solution,ophthalmic,decrease eye pressure,discontinued,C19H29NO5 
+akpentolate,040164,Rising,solution,ophthalmic,dilate pupils: eye exam,prescription,C17H25NO3 
+akovaz,208289,Exela Pharma,solution,intravenous,hypotension,prescription,C10H15NO 
+akne-mycin,050584,Bausch,ointment,topical,acne,discontinued,C37H67NO13 
+aklief,211527,Galderma Labs,cream,topical,acne,prescription,C29H33NO4 
+akineton,012418,Abbvie,injectable,injection,Parkinson's,discontinued,C21H29NO 
+akeega,216793,Janssen Biotech,tablet,oral,prostate cancer,prescription,C26H33NO2 
+akbeta,074780,Epic Pharma,solution,ophthalmic,glaucoma. ocular hypertension,discontinued,C17H25NO3 
+ak-pentolate,085555,Epic Pharma,solution,ophthalmic,dilate pupils,discontinued,C17H25NO3 
+ajovy,761089,Teva Pharms,injectable,injection,migraines,prescription,PBT 
+airsupra,214070,Astrazeneca,aerosol,inhalation,bronchospasm,prescription,(C13H21NO3)2•H2SO4 
+aimovig,761077,Amgen,injectable,injection,migraines,prescription,PBT 
+ahzantive,761378,Formycon,injectable,injection,Macular: Degeneration/Edema/Retinopathy,prescription,PBT 
+agrylin,020333,Takeda Pharms,capsule,oral,thrombocythemia,prescription,C10H7Cl2N3O∙HCl 
+aggrenox,020884,Boehringer,capsule,oral,postoperative anticoagulant,discontinued,C24H40N8O4 
+aggrastat,020913,Medicure,solution,injection,myocardial infarction,prescription,C22H36N2O5S 
+agenerase,021007,Glaxosmithkline,capsule,oral,HIV,discontinued,C25H35N3O6S 
+agamree,215239,Catalyst Pharms,suspension,oral,Duchenne musclular dystrophy,prescription,C22H28O4 
+afrinol,018191,Schering,tablet,oral,Antihistamine Nasal decongestant,discontinued,C10H15NO 
+afirmelle,206886,Aurobindo Pharma,tablet,oral,prevent pregnancy,prescription,C21H28O2 
+afinitor,022334,Novartis,tablet,oral,postmenopausal breast cancer. neuroendocrine tumors,prescription,C53H83NO14 
+afeditab,075659,Watson Labs,tablet,oral,vasospastic angina,discontinued,C17H18N2O6 
+afatinib,210804,MSN Pharma,tablet,oral,lung cancer (NSCLC),None,C32H33ClFN5O11 
+aerosporin,062036,Glaxosmithkline,injectable,injection,prevent infection: minor cuts scrapes and burns,discontinued,PBT 
+aerolone,007245,Lilly,solution,inhalation,bronchospasm during anesthesia,discontinued,C11H17NO3 
+aerolate,089141,Fleming Pharms,solution,oral,chronic asthma and other chronic lung diseases,discontinued,C7H8N4O2 
+aerobid,018340,Roche Palo,aerosol,inhalation,nasal symptoms: perennial rhinitis,discontinued,C24H31FO6 
+aemcolo,210910,Cosmo Tech,tablet,oral,travelers’ diarrhea,discontinued,C37H46NNaO12 
+advil,018989,Haleon,tablet,oral,pain relief,OTC,C13H18O2 
+advair,021077,Glaxosmithkline,powder,intravenous,hay fever or other upper respiratory allergies,prescription,C15H31F3O5S 
+aduhelm,761178,Biogen,injectable,injection,Alzheimer's disease,prescription,PBT 
+adrucil,040023,Teva Pharms,injectable,injection,superficial basal cell carcinomas,discontinued,C4H3FN2O2 
+adriamycin,063165,Pfizer,injectable,injection,chemotherapy: breast cancer. leukemia. lymphoma,discontinued,C27H29NO11 
+adreview,022290,GE Hlthcare,solution,intravenous,pheochromocytoma & neuroblastoma,prescription,C16H22I2N6O4S 
+adrenalin,204640,PH Health,solution,intravenous,hypotension: increase blood pressure,prescription,C9H13NO3 
+adphen,083655,Ferndale Labs,tablet,oral,exogenous obesity,discontinued,C12H17NO 
+admelog,209196,Sanofi,solution,intravenous,diabetic: rapid insulin glycemic control,prescription,PBT 
+adlyxin,208471,Sanofi,solution,subcutaneous,diabetes: glycemic control,prescription,PBT 
+adlarity,212304,Corium,system,transdermal,dementia: Alzheimer's ,prescription,C24H29NO3HCl 
+adipex,085128,Teva Pharms,tablet,oral,exogenous obesity,prescription,C10H15N 
+adhansia,212038,Purdue Pharma,capsule,oral,Attention Deficit Hyperactivity Disorder (ADHD),discontinued,C14H19NO2 
+adenosine,077425,Meitheal,solution,intravenous,cardio vasodilator,prescription,C10H13N5O4 
+adempas,204819,Bayer Hlthcare,tablet,oral,Chronic Thromboembolic Pulmonary Hypertension (CTEPH),prescription,C20H19FN8O2 
+adefovir,202051,Sigmapharm Labs,tablet,oral,chronic hepatitis B,prescription,C20H32N5O8P 
+addyi,022526,Sprout Pharms,tablet,oral,premenopausal: generalized hypoactive sexual desire disorder (HSDD),prescription,C20H21F3N4O 
+adderall,011522,Teva Pharms,tablet,oral,Attention Deficit Hyperactivity Disorder (ADHD) and Narcolepsy,discontinued,C9H13N 
+adcirca,022332,Lilly,tablet,oral,erectile dysfunction (ED),prescription,C22H19N3O4 
+adcetris,125388,Seattle Genetics,injectable,injection,classical Hodgkin lymphoma,prescription,PBT 
+adbry,761180,Leo Pharma,injectable,injection,atopic dermatitis,prescription,PBT 
+adasuve,022549,Alexza Pharms,powder,inhalation,schizophrenia,prescription,C18H18ClN3O 
+adapalene,091314,Glenmark Pharms,gel,topical,acne,OTC,C14H10O4 
+adalat,019478,Bayer Pharms,capsule,oral,vasospastic angina,discontinued,C17H18N2O6 
+adakveo,761128,Novartis,injectable,injection,sickle cell anemia: vasoocclusive crises,prescription,PBT 
+adagen,019818,Leadiant Biosci,injectable,injection,enzyme replacement therapy: severe combined immunodeficiency disease (SCID),discontinued,PBT 
+aczone,021794,Abbvie,gel,topical,Leprosy: Dermatitis herpetiformis,prescription,C12H12N2O2S 
+acylanid,009436,Novartis,tablet,oral,congestive heart failure,discontinued,C43H66O14 
+acyclovir,075677,Apotex,capsule,oral,herpes zoster (shingles) & chickenpox (varicella),prescription,C8H11N5O3 
+acuvail,022427,Abbvie,solution,ophthalmic,pain management: arthritis & headaches,prescription,C15H13NO3 
+acutect,020887,CIS Bio,injectable,injection,radioactive diagnostic: acute venous thrombosis,discontinued,NA 
+acular,019700,Abbvie,solution,ophthalmic,Acute Pain management,prescription,C15H13NO3 
+actron,020499,Bayer,tablet,oral,rheumatoid arthritis and osteoarthritis,discontinued,C16H14O3 
+actos,021073,Takeda Pharms,tablet,oral,diabetes: glycemic control ,prescription,C19H20N2O3S 
+actoplus,021842,Takeda Pharms,tablet,oral,diabetes: glycemic control,prescription,C16H15F6N5O 
+actonel,020835,Apil,tablet,oral,postmenopausal osteoporosis,discontinued,C7H10NNaO7P2 
+activella,020907,Amneal,tablet,oral,prevention of pregnancy. menopause HRT,prescription,C20H26O2 
+activase,103172,Genentech,injectable,injection,blood thinner: heart attack & stroke,prescription,PBT 
+actisite,050653,Schiff & Co,fiber,periodontal,drug-resistant bacteria,discontinued,C22H24N2O8 
+actiq,020747,Cephalon,lozenge,transmucosal,anesthetic: postoperative,discontinued,C22H28N2O•C6H8O7 
+actinex,019940,Univ AZ Cancer Ctr,cream,topical,skin growths,discontinued,C18H22O4 
+actimmune,103836,Horizon Therapeutics,injectable,injection,Chronic Granulomatous Disease,prescription,PBT 
+actigall,019594,Teva Pharms,capsule,oral,noncalcified radiolucent gallbladder stones,discontinued,C24H40O4 
+actifed,018996,Glaxosmithkline,capsule,oral,nasal congestion due to the common cold,discontinued,C10H15NO 
+actidil,011110,Glaxosmithkline,tablet,oral,common cold and flu symptoms,discontinued,C19H22N2 
+acticort,086535,Baker Norton,lotion,topical,relieves itching associated with minor skin irritations,discontinued,C21H30O5 
+acticlate,205931,Chartwell Rx,tablet,oral,antibacterial,prescription,C22H24N2O8 
+acthrel,020162,Ferring,injectable,injection,pituitary corticotroph responsiveness,prescription,C205H339N59O63S 
+acthar,007504,Sanofi,injectable,injection,diagnostic: hormone production adrenal gland,discontinued,PBT 
+actemra,125276,Genentech,injectable,injection,autoimmune diseases: Rheumatoid Arthritis,prescription,PBT 
+actahist,088344,Cenci,syrup,oral,nasal congestion: common cold & fever,discontinued,C10H15NO 
+aclovate,018702,Fougera Pharms,ointment,topical,inflammatory dermatoses,discontinued,C28H37ClO7 
+acitretin,204633,Sigmapharm Labs,capsule,oral,severe psoriasis,prescription,C21H26O3 
+aciphex,021456,Eisai Medical,tablet,oral,Erosive or Ulcerative Gastroesophageal Reflux Disease (GERD),prescription,C18H20N3NaO3S 
+acilac,073685,Nostrum Labs,solution,rectal,chronic constipation. portal-systemic encephalopathy,discontinued,C12H22O11 
+achromycin,050266,Storz,ointment,ophthalmic,antibacterial ,discontinued,C22H24N2O8 
+acetylcysteine,071364,Hospira,solution,oral,prevent or lessen hepatic injury (acetaminophen hepatotoxicity),discontinued,C5H9NO3S 
+acetohexamide,070753,USL Pharma,tablet,oral,diabetes: glycemic control ,discontinued,C15H20N2O4S 
+acetic acid,040166,Chartwell Rx,solution,otic,infections of the external auditory canal ,discontinued,C2H4O2 
+acetazolamide,040195,Taro,tablet,oral,edema: congestive heart failure,prescription,C4H6N4O3S2 
+acetaminophen,207229,Aurobindo Pharma,tablet,oral,relieves minor aches and pains,OTC,C8H9NO2 
+acetadote,021539,Cumberland Pharms,injectable,injection,prevent or lessen hepatic injury,prescription,C5H9NO3S 
+aceon,020184,Symplmed Pharms,tablet,oral,hypertension,discontinued,C19H32N2O5C4H11N 
+acebutolol,074007,ANI Pharms,capsule,oral,hypertension,prescription,C18H28N2O4 
+accutane,018662,Hoffman La Roche,capsule,oral,severe recalcitrant nodular acne,discontinued,C20H28O2 
+accuretic,020125,Pfizer,tablet,oral,hypertension,discontinued,C7H8ClN3O4S2 
+accurbron,088746,Sanofi,syrup,oral,asthma and other chronic lung diseases,discontinued,C7H8N4O2  
+accupril,019885,Pfizer,tablet,oral,hypertension,discontinued,C25H30N2O5 
+accuneb,020949,Pharmobedient,solution,inhalation,bronchospasm,discontinued,(C13H21NO3)2•H2SO4 
+accrufer,212320,Shield TX,capsule,oral,iron deficiency in adults,prescription,(C6H5O3)3Fe 
+accretropin,021538,Emergent,injectable,injection,inadequate secretion of endogenous growth hormone,discontinued,PBT 
+accolate,020547,Strides Pharma,tablet,oral,asthma ,prescription,C31H33N3O6S 
+acarbose,090912,Strides Pharma,tablet,oral,diabetes: glycemic control,prescription,C25H43NO18 
+acanya,050819,Bausch,gel,topical,acne,prescription,C14H10O4 
+acamprosate,219904,Bionpharma,tablet,oral,maintenance of abstinence from alcohol ,prescription,C10H20N2O8S2Ca 
+acalabrutinib,216775,Alembic Pharms,capsule,oral,mantle cell lymphoma (MCL),None,C26H23N7O2•C4H4O4 
+abstral,022510,Sentynl Theraps,tablet,sublingual,analgesic,discontinued,C22H28N2O•C6H8O7 
+absorica,021951,Sun Pharm,capsule,oral,severe recalcitrant nodular acne,prescription,C20H28O2 
+abrilada,761118,Pfizer,injectable,injection,Rheumatoid Arthritis,prescription,PBT 
+abreva,020941,Haleon,cream,topical,cold sores/fever blisters,OTC,C22H46O 
+abraxane,021660,Bristol Myers,powder,intravenous,Metastatic breast cancer (post-chemotherapy),prescription,C47H51NO14 
+ablavar,021711,Lantheus Medical,solution,intravenous,diagnostic: aortoiliac occlusive disease,discontinued,C33H38GdN3Na5O14P 
+abitrexate,089161,ABIC,injectable,injection,acute lymphoblastic leukemia. severe psoriasis,discontinued,C20H22N8O5 
+abiraterone,209227,Glenmark,tablet,oral,Metastatic castration-resistant prostate cancer (CRPC),prescription,C26H33NO2 
+abilify,021436,Otsuka,tablet,oral,Schizophrenia. Irritability with Autistic Disorder. Tourette’s Disorder,prescription,C23H27Cl2N3O2 
+abelcet,050724,Leadiant Biosci,injectable,injection,fungal infections & HIV-infected: Cryptococcal Meningitis ,discontinued,C47H73NO17 
+abacavir,212181,Emcure Pharms,tablet,oral,antiretroviral: (HIV-1) infection,None,(C14H18N6O)2•H2SO4 
+a/t/s,062405,Taro,solution,topical,acne,discontinued,C37H67NO13 
+a.p.l,017055,Ferring,injectable,injection,delayed genital development pre-puberty. low sex hormone levels.,discontinued,PBT 
+a-poxide,085447,Abbott,capsule,oral,control emotional and somatic factors in gastrointestinal disorders. irratible bowel syndrome,discontinued,C16H14ClN3O
+a-methapred,089573,Abbott,injectable,injection,anti-inflammatory glucocorticoid: asthma. atopic dermatitis,discontinued,C26H34O8 
+a-hydrocort,040666,Hospira,injectable,injection,severe allergic reactions,discontinued,C25H34O8 
